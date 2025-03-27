@@ -1,0 +1,6 @@
+@DACN_VILLA_HostAddress = http://localhost:5144
+
+GET {{DACN_VILLA_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
